@@ -19,3 +19,4 @@ const viewportOptions = {
   //close the browser
 })();
 
+// more on https://github.com/puppeteer/puppeteer/blob/v3.1.0/docs/api.md#pagesetviewportviewport
