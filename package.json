@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ashishmangla0/puppeteerDemo/issues"
   },
-  "homepage": "https://github.com/ashishmangla0/puppeteerDemo#readme"
+  "homepage": "https://github.com/ashishmangla0/puppeteerDemo#readme",
+  "dependencies": {
+    "puppeteer": "^3.2.0"
+  }
 }
